@@ -39,8 +39,11 @@ Puedo decir que me ha tomado un tiempo bastante el poder estar a una altura dece
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/melisahumada/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/melisahumada/" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/305359" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="305359" height="30" width="40" /></a>
+
+<a href="https://stackoverflow.com/users/21497242" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="305359" height="30" width="40" /></a>
+
 <a href="https://instagram.com/melisa.ah91" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="melisa.ah91" height="30" width="40" /></a>
+
 <a href="https://discord.gg/Melisa.a91#0174" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Melisa.a91#0174" height="30" width="40" /></a>
 </p>
 
