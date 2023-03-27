@@ -18,7 +18,7 @@ Actualmente estoy introduciendo me a este nuevo mundo, a mis 31 años por fin me
 Puedo decir que me ha tomado un tiempo bastante el poder estar a una altura decente. Y todavía queda mucho por delante, no creo que la tenga fácil en insertarme al mundo del desarrollo pero tengo mis cartas apostadas. 
 </p>
 
-⚡ Datos random <br>
+- ⚡ Datos random <br>
     * Obsesionada con Apex Legend
     * 4 perros y 2 gatas
     * pole dancer
