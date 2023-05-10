@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mikky91&label=Profile%20views&color=0e75b6&style=flat" alt="mikky91" /> </p>
 
-- 🌱 Actualmente estoy estudiando **HTML, CSS y JAVASCRIP**
+- 🌱 Actualmente estoy estudiando para poder desempeñarme como **Full stack** developer
 
 - 🏠 Mendoza, Argentina
 
@@ -13,9 +13,11 @@
 
 <h3 align="left"> Un poco sobre mi... </h3>
 <p align="justify">
-Actualmente estoy introduciendo me a este nuevo mundo, a mis 31 años por fin me doy el tiempo y la dedicación para apuntar a un sueño de pequeña. Decirle a esa Melisa de 16 años que la programación no es solo de hombres.<br> 
-¿Qué decir? Se necesita perseverancia y empeño, conocer realmente lo que es la frustración de no entender, de sentir que no es lo tuyo cuando no se puede resolver un problema.<br>
-Puedo decir que me ha tomado un tiempo bastante el poder estar a una altura decente. Y todavía queda mucho por delante, no creo que la tenga fácil en insertarme al mundo del desarrollo pero tengo mis cartas apostadas. 
+Como estudiante de informática y apasionada de la tecnología, estoy emocionada por la oportunidad de unirme a un equipo dinámico y colaborativo en el que pueda contribuir con mis habilidades y conocimientos.
+
+Me estoy centrando en adquirir experiencia en una variedad de lenguajes de programación, herramientas y tecnologías, incluyendo HTML, CSS, JavaScript, Node.js, React, Python y SQL, que espero con el tiempo pueda seguir sumando.
+	
+	Si alguien le interesa integrarme como su aprendiz, estaría encantada de poder comunicarme con Uds
 </p>
 
 - ⚡ Datos random <br>
