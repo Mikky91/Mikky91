@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mikky91&label=Profile%20views&color=0e75b6&style=flat" alt="mikky91" /> </p>
 
-https://github.com/Mikky91/Mikky91/assets/108770258/62c752ff-791d-491c-8af1-be5d35a1e769
+![Purple and Pink Gamer Girl Animated Logo (250 × 250 px) (1)](https://github.com/Mikky91/Mikky91/assets/108770258/fcbe5cc6-f347-4ae4-b6dc-d59bf0f309bc)
 
 
 - 🌱 Actualmente estoy estudiando para poder desempeñarme como **Full stack** developer
