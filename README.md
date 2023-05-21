@@ -4,6 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mikky91&label=Profile%20views&color=0e75b6&style=flat" alt="mikky91" /> </p>
 
+https://github.com/Mikky91/Mikky91/assets/108770258/62c752ff-791d-491c-8af1-be5d35a1e769
+
+
 - 🌱 Actualmente estoy estudiando para poder desempeñarme como **Full stack** developer
 
 - 🏠 Mendoza, Argentina
