@@ -10,7 +10,7 @@
 
 - 📫 Mi correo es **melisa.ahumada91@gmail.com**
 
-- 📄 Know about my experiences [CV](https://github.com/Mikky91/resume/blob/main/Melisa_Ahumada_FS-EN%20(1).pdf)
+- 📄 Know about my experiences [CV](https://github.com/Mikky91/resume/blob/main/Melisa_Ahumada_FS_student.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
